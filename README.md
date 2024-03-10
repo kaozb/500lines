@@ -1,3 +1,22 @@
+
+|编号|项目名称|中文名称|功能说明
+|------|------|------|------
+|1|`ci`|**持续集成系统**|用于测试新代码的专用系统，包含获取更改后代码、自动测试代码、生成测试报告功能
+|2|`cluster`|**分布式系统**|分布式系统 paxos 的原理与实现，并采用一些技巧帮助你尽可能的减少和查找、修复漏洞
+|3|`contingent`|**文档系统**|使用 python 构建一个文档系统
+|4|`crawler`|**高效爬虫**|几百行代码实现一个简单的 Web 爬虫程序
+|5|`data-store`|**key-value 的非关系型数据库**|旨在保护计算机出现崩溃或者报错时的数据
+|6|`flow-shop`|**Flow Shop 调度**|-
+|7|`incomplete`|**多个小项目组成的**|-
+|8|`interpreter`|**Python 解释器**|用 Python 实现的 Python 解释器
+|9|`modeller`|**3D 建模**|这是一个非常小而有限的 3D 建模项目
+|10|`objmodel`|**对象模型**|探讨了一系列非常简单的对象模型的实现
+|11|`ocr`|**光学字符识别**|该项目将使用神经网络(ANN)搭建一个 OCR 系统
+|12|`pedometer`|**计步器**|使用 Ruby 建立一个基本的计步器，并用户提供一个友好 UI 界面
+|13|`sampler`|**决策取样器**|该项目将对采样、多项分布、随机分布等名词
+|14|`template-engine`|**模板引擎**|任何 Web 应用程序中的一个重要阶段是生成要提供给浏览器的 HTML
+|15|`web-server`|**Web 服务器**|利用 Python 搭建一个简单的 Web 服务器
+
 *500 Lines or Less*
 ===================
 
@@ -13,7 +32,7 @@ see the [license description](LICENSE.md) for details.  In addition, all
 royalties from paid-for versions will all go to Amnesty International.
 
 The production of this book has been made possible by the financial support of
-[PagerDuty](http://www.pagerduty.com/company/work-with-us/).
+[PagerDuty](http://www.pagerduty.com/company/work-with-us/)。
 
 <p align="center">
     <img src="https://github.com/aosabook/500lines/raw/master/resource/pagerduty_logo.png" alt="PagerDuty Logo" />
